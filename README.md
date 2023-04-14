@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gulshankumar
-- 👀 I’m interested in Machine Learning and Cybersecuirty.
-- 🌱 I’m currently working on Python
+- 👋 Hi, I’m Gulshan kumar,a Developer.
+- 👀 I’m interested in Springboot, Angular & Machine Learning.
+- 🌱 I’m currently working in Java and Python
 
 
 <!---
