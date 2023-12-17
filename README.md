@@ -28,8 +28,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gulshankumar9)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulshankumar9&show_icons=true&locale=en&layout=compact" alt="gulshankumar9" /></p>-->
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulshankumar9&langs_count=8&show_icons=true&locale=en&layout=compact" alt="gulshankumar9" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshankumar9&count_private=true&bg_color=30,ff0000,ffff00,00ff00&show_icons=true&theme=dracula&locale=en" alt="gulshankumar9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshankumar9&count_private=true&show_icons=true&theme=dracula&locale=en" alt="gulshankumar9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshankumar9&" alt="gulshankumar9" /></p>
