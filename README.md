@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulshankumar9" alt="gulshankumar9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@iamgulshan_k" target="blank"><img src="https://img.shields.io/twitter/follow/@iamgulshan_k?logo=twitter&style=for-the-badge" alt="@iamgulshan_k" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@iamgulshan_k" target="blank"><img src="https://img.shields.io/twitter/follow/iamgulshan_k?logo=twitter&style=for-the-badge" alt="@iamgulshan_k" /></a> </p>
 
 - 🌱 I’m currently learning **Springboot, React, Docker and Kubernetes**
 
