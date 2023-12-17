@@ -30,6 +30,6 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulshankumar9&show_icons=true&locale=en&layout=compact" alt="gulshankumar9" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshankumar9&count_private=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&show_icons=true&theme=dracula&locale=en" alt="gulshankumar9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshankumar9&count_private=true&bg_color=DEG,COLOR1,COLOR2,COLOR3,COLOR4,COLOR5,COLOR6,COLOR7,COLOR8,COLOR9,COLOR10&show_icons=true&theme=dracula&locale=en" alt="gulshankumar9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshankumar9&" alt="gulshankumar9" /></p>
