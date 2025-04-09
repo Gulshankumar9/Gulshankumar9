@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gulshan Kumar Sharma</h1>
+<h1 align="center">Hi 👋, I'm Gulshan Kumar</h1>
 
 <h3 align="center">A passionate full-stack developer from Bengaluru,India</h3>
 
