@@ -32,5 +32,6 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulshankumar9&langs_count=10&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact" alt="gulshankumar9" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshankumar9&show_icons=true&locale=en" alt="gulshankumar9" /></p>
+[![Gulshan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gulshankumar9)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshankumar9&" alt="gulshankumar9" /></p>
